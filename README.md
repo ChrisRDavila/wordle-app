@@ -36,10 +36,16 @@ _This application demonstrates using 2 different APIs, one from Random-Word-API 
 * _Run 'npm run lint' to lint all JS files_
 * _Run 'npm run test' to test files via Jest_
 * _Run 'npm run start' to start a development server_
+* _use new game button to get your first word going on your first game_
+* _use keyboard to pick 5 letters for your word and hit submit to enter your guess_
+* _first word guess for nor comes back as incorrect_
+* _use instructions to navigate game from pull up footer bar, push play on music if want to hear scary tune_
 
 ## Known Bugs
 
 * _The second and subsequent time the "New Game" button is clicked to generate a new instance of the wordle game without refreshing the page, the application will display the Error modal popup upon entering a word, regardless if the word is valid or not. Re-entering the same word again, or another word, will cause the application to continue functioning normally._
+* _must click new game to start playing_
+* _first word guess will incorrectly give a response of not a word despite if correcct or not due to placement in the js code_
 
 ## License
 
