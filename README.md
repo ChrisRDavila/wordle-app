@@ -15,7 +15,7 @@
 
 ## Description
 
-_This application demonstrates using 2 different APIs, one from Random-Word-API and one from DictionaryAPI, to generate a wordle-simulation game. The APIs return parsed JSON data to the user for random 5-letter word generation and correct dictionary defintion of the word. Directions for the game are as follows:_
+_Team project with vanilla js/intermediate looping/arrays/OOP and API calls. This application demonstrates using 2 different APIs, one from Random-Word-API and one from DictionaryAPI, to generate a wordle-simulation game. The APIs return parsed JSON data to the user for random 5-letter word generation and correct dictionary defintion of the word. Directions for the game are as follows:_
 * _Begin by clicking "New Game" button_
 * _A random 5-letter word has now been generated_
 * _Use the onscreen keyboard to make your guesses, 6 guesses total_
